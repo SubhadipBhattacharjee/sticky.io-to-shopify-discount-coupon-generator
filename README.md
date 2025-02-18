@@ -23,4 +23,4 @@ The workflow ensures seamless integration between Sticky.io and Shopify, rewardi
 ## Installation
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/stickyio-shopify-coupon-automation.git
+   git clone https://github.com/SubhadipBhattacharjee/sticky.io-to-shopify-discount-coupon-generator.git
