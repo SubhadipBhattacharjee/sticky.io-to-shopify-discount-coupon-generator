@@ -1,0 +1,19 @@
+
+body {
+    overflow-x: hidden;
+}
+.table>tbody {
+    vertical-align: unset !important;
+}
+#content {
+    padding: 20px;
+    transition: all 0.3s;
+}
+.navbar {
+    padding: 0.5rem 1rem;
+}
+@media screen and (max-width: 527px) {
+    .for_center{
+        justify-content: center !important;
+    }
+}
