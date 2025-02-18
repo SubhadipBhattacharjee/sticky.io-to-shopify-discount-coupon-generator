@@ -1,4 +1,4 @@
-# sticky.io-to-shopify-discount-coupon-generator on First Subscription
+# Sticky.io to shopify discount coupon generation on First Subscription
 
 ## Overview
 This project automates the process of generating a $50 coupon in Shopify when a user places their first subscription order on Sticky.io (formerly Limelight CRM). 
