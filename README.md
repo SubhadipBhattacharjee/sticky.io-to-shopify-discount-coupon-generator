@@ -1,0 +1,1 @@
+# sticky.io-to-shopify-discount-coupon-generator
